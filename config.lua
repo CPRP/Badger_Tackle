@@ -1,2 +1,2 @@
 Config                            	= {}
-Config.TackleDistance				= 3.0
+Config.TackleDistance				= 1.0
